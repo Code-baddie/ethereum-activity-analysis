@@ -34,6 +34,11 @@ The data suggests that ETH transfer activity dominates over smart contract inter
 2. Value transactions may include non-meaningful activity (e.g., exchange transfers)
 3. Unique addresses do not perfectly represent actual users
 
+ Data Scope
+
+This analysis is based on a 14-day window and is intended as a foundational study.
+Short timeframes may not capture long-term trends and should be interpreted with caution.
+
 
  Conclusion
 
